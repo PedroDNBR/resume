@@ -31,7 +31,7 @@ Tecimob offers a website, CRM, and application designed to help real estate prof
 
 ## Personal Projects
 
-<img src="https://www.mediafire.com/convkey/97e9/zrlv062oi9vzk3czg.jpg" 
+<img src="https://www.mediafire.com/convkey/5a2c/ri6avssqig6nvry9g.jpg" 
 align="left" width="48"  height="48" style="object-fit: cover;" />
 
 ### OnlineShooterCpp
@@ -66,7 +66,7 @@ Cedup Hills is a first-person horror game developed for a school project at CEDU
 
 ---
 
-<img src="https://www.mediafire.com/convkey/2e1c/x6ng843plq6dnmczg.jpg" 
+<img src="https://www.mediafire.com/convkey/e46f/n7vory2bcxm6uuozg.jpg?size_id=8" 
 align="left" width="48"  height="48" style="object-fit: cover;" />
 
 ### Unreleased prototypes
@@ -84,6 +84,8 @@ This GoogleDrive hosts a collection of Unity prototypes I've developed over the 
 ###### - February 2024 - December 2028
 
 UNINTER is a university. In there, I’ll graduate as a Computer Scientist, I still in the early lessons, but already learned about binary programming logic and hardware functionality, soonly I’ll be learning linear algebra, graphics programming and more
+
+---
 
 <img src="https://user-images.githubusercontent.com/44846329/232353960-119b79b5-bb3c-480f-95e7-85a0c00fd95d.png"
 align="left" width="48"  height="48" style="object-fit: cover;" />
