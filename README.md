@@ -10,6 +10,17 @@ _Santa Catarina, Brazil_.
 Being a programmer for about 6 years, I have acquired extensive knowledge in game development through side projects and game jams as well. I’m a person who loves to create new things while writing high quality code and sharing knowledge, especially with a flexible and collaborative team. 
 
 ## Professional Experience
+
+<img src="https://www.mediafire.com/convkey/7e48/xv9it4kz5t92zyt9g.jpg" align="left" width="48" height="48" />
+
+### Independent Game Developer
+
+###### Santa Catarina, Brazil (Remote); June 2016 - now
+
+Since 2016, I have been passionately studying and creating games. My love for game development has driven me to explore and design various genres, including racing games, first-person shooters (FPS), Souls-like games, 2D platformers, and more. Over the years, I have gained extensive experience with multiple game development engines and programming languages. I have worked with a variety of engines, including the deprecated Blender Game Engine, Unity, Unreal Engine, and GameMaker Studio, among others. I have particularly deep experience with Unreal Engine and Unity, which I have used extensively in my projects.
+
+---
+
 <img src="https://media.licdn.com/dms/image/C560BAQEsic3yZ72KCQ/company-logo_100_100/0/1631328478893?e=1724889600&v=beta&t=eUyJMT9AY1UQHRRUTPie3luB9cMHqViKECPHZ53lFsg" align="left" width="48" height="48" />
 
 ### Hotels at Home - Full-stack Developer
