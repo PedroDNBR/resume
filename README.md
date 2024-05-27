@@ -7,7 +7,7 @@ _Santa Catarina, Brazil_.
 
 ---
 
-Being a programmer for about 6 years, I have acquired extensive knowledge in game development through side projects and game jams as well. I’m a person who loves to create new things while writing high quality code and sharing knowledge, especially with a flexible and collaborative team. 
+Being a programmer for about 8 years, I have acquired extensive knowledge in game development through side projects and game jams as well. I’m a person who loves to create new things while writing high quality code and sharing knowledge, especially with a flexible and collaborative team. 
 
 ## Professional Experience
 
