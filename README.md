@@ -49,7 +49,7 @@ align="left" width="48"  height="48" style="object-fit: cover;" />
 
 ###### - May 2024
 
-OnlineShooterCpp is a game developed through the Unreal Engine 5 C++ Multiplayer Shooter course. It's a straightforward third-person shooter featuring three game modes: Free for All, Team Deathmatch, and Capture the Flag.
+[OnlineShooterCpp](https://pedrogom.es/osc) is a game developed through the Unreal Engine 5 C++ Multiplayer Shooter course. It's a straightforward third-person shooter featuring three game modes: Free for All, Team Deathmatch, and Capture the Flag.
 > Features: Custom Online Multiplayer Subsystem plugin derived from the Online Steam Subsystem, Raycast and Projectile Weapons, Server Side Rewind, IK, Three different game modes
 
 ---
@@ -61,7 +61,7 @@ align="left" width="48"  height="48" style="object-fit: cover;" />
 
 ###### - December 2020
 
-The Tower of Golem is a game created for the game jam 'game_jaaj5', themed around 'Towers'. The story follows an unfinished golem in a desolate land who stumbles upon a life-filled tower, only to discover it collapsing. To escape, the golem must defeat the tower's conflicted guardians.
+[The Tower of Golem](https://pedrogom.es/ttog) is a game created for the game jam 'game_jaaj5', themed around 'Towers'. The story follows an unfinished golem in a desolate land who stumbles upon a life-filled tower, only to discover it collapsing. To escape, the golem must defeat the tower's conflicted guardians.
 > Features: Auto-saving System, Cutscenes, Partial Gamepad Compatibility, Low-poly Graphics, Pixel Art icons, AI that adjusts attacks based on player distance.
 
 ---
@@ -72,7 +72,7 @@ align="left" width="48"  height="48" style="object-fit: cover;" />
 ### Cedup Hills
 ###### - November 2019
 
-Cedup Hills is a first-person horror game developed for a school project at CEDUP. Set in Unity with C#, the game casts our former teacher, Ranieri, as the main villain, and my friend Vardinho as the protagonist. Players must navigate the eerie halls of Cedup School to swap their exam paper for a higher score while evading the teacher's relentless pursuit.
+[Cedup Hills](https://pedrogom.es/ch) is a first-person horror game developed for a school project at CEDUP. Set in Unity with C#, the game casts our former teacher, Ranieri, as the main villain, and my friend Vardinho as the protagonist. Players must navigate the eerie halls of Cedup School to swap their exam paper for a higher score while evading the teacher's relentless pursuit.
 > Features: Real Time Dialogues, Dubbing
 
 ---
@@ -84,7 +84,7 @@ align="left" width="48"  height="48" style="object-fit: cover;" />
 
 ###### - November 2017 - now
 
-This GoogleDrive hosts a collection of Unity prototypes I've developed over the years, reflecting my evolving skills. It includes various racing games, a horror game crafted for my CEDUP final paper, and FPS experiments. Among the latter, there's a range from basic attempts to more sophisticated creations featuring elements like weapon customization, multiplayer functionality, and state pattern implementation. more elaborated with weapon customization, multiplayer with Netcode for GameObjects and implementing state pattern
+My [Portfolio](https://pedrogom.es) and this [GoogleDrive](https://drive.google.com/drive/u/0/folders/15jII5cUUmdbqNvPrwWcGipf8vVeRLTfG) hosts a collection of Unity prototypes I've developed over the years, reflecting my evolving skills. It includes various racing games, a horror game crafted for my CEDUP final paper, and FPS experiments. Among the latter, there's a range from basic attempts to more sophisticated creations featuring elements like weapon customization, multiplayer functionality, and state pattern implementation. more elaborated with weapon customization, multiplayer with Netcode for GameObjects and implementing state pattern
 
 ## Education
 
