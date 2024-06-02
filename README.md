@@ -3,7 +3,7 @@
 _Game Developer_.
 _Santa Catarina, Brazil_.
 
-<sub>[E-mail](pedrogoantunes@gmail.com) - [LinkedIn](https://www.linkedin.com/in/pedrodnbr/) - [GitHub](https://github.com/PedroDNBR) - Phone: +55 (48) 99949-7039</sub>
+<sub>[E-mail](pedrogoantunes@gmail.com) - [LinkedIn](https://www.linkedin.com/in/pedrodnbr/) - [GitHub](https://github.com/PedroDNBR) -  [Portfolio](https://pedrogom.es/) - Phone: +55 (48) 99949-7039</sub>
 
 ---
 
