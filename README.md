@@ -7,25 +7,35 @@ _Santa Catarina, Brazil_.
 
 ---
 
-Being a programmer for about 8 years, I have acquired extensive knowledge in game development through side projects and game jams as well. I’m a person who loves to create new things while writing high quality code and sharing knowledge, especially with a flexible and collaborative team. 
+Being a programmer for about 8 years, I have acquired extensive knowledge in game development through side projects, game jams and professional experience. I’m a person who loves to create new things while writing high quality code and sharing knowledge, especially with a flexible and collaborative team.
 
 ## Professional Experience
 
-<img src="https://www.mediafire.com/convkey/7e48/xv9it4kz5t92zyt9g.jpg" align="left" width="48" height="48" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT37JoVeml2eIDwe7NuJFqOud_qV9eCWhGn-A&s" align="left" width="48" height="48" />
+
+### Senai Soluções Digitais - Unity Developer
+
+###### - Santa Catarina, Brazil (Remote); August 2024 - now
+
+As a Multimedia Developer, I am responsible for the creation and development of 3D applications, games, and simulators for various platforms, including Mobile, Desktop, VR, AR, and Mixed Reality, using Unity and C#. In addition, I collaborate with the 3D Modeling and Animation team, providing support with Blender.
+
+---
+
+<img src="https://pedrogom.es/icon.ico?0532e004c2ced0b1" align="left" width="48" height="48" />
 
 ### Independent Game Developer
 
-###### Santa Catarina, Brazil (Remote); June 2016 - now
+###### - Santa Catarina, Brazil (Remote); June 2016 - now
 
 Since 2016, I have been passionately studying and creating games. My love for game development has driven me to explore and design various genres, including racing games, first-person shooters (FPS), Souls-like games, 2D platformers, and more. Over the years, I have gained extensive experience with multiple game development engines and programming languages. I have worked with a variety of engines, including the deprecated Blender Game Engine, Unity, Unreal Engine, and GameMaker Studio, among others. I have particularly deep experience with Unreal Engine and Unity, which I have used extensively in my projects.
 
 ---
 
-<img src="https://media.licdn.com/dms/image/C560BAQEsic3yZ72KCQ/company-logo_100_100/0/1631328478893?e=1724889600&v=beta&t=eUyJMT9AY1UQHRRUTPie3luB9cMHqViKECPHZ53lFsg" align="left" width="48" height="48" />
+<img src="https://media.licdn.com/dms/image/C560BAQEsic3yZ72KCQ/company-logo_200_200/0/1631328478893?e=2147483647&v=beta&t=ITB-0gIu-SlhcN1-waY0qZdzHxeT7kh0Q7F5t7mPxwM" align="left" width="48" height="48" />
 
 ### Hotels at Home - Full-stack Developer
 
-###### - New Jersey, United States (Remote); May 2023 - now
+###### - New Jersey, United States (Remote); June 2023 - July 2024
 
 Hotels at Home provides direct-to-guest retail programs, allowing guests to purchase room amenities and furnishings from their favorite hotels. This also offers hotels a unique chance for personalized guest engagement. As a Fullstack Developer, I create new features and websites using our existing .NET codebase. I lead a team in developing new projects with technologies like ReactJS, NodeJS, and AWS Lambdas, and implement automations to optimize company processes. Additionally, I maintain up-to-date documentation to support new developers and guide them through our projects
 
@@ -88,7 +98,7 @@ My [Portfolio](https://pedrogom.es) and this [GoogleDrive](https://drive.google.
 
 ## Education
 
-<img src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_100_100/0/1655119369480/grupo_uninter_logo?e=1724889600&v=beta&t=Ug48OlSc9u2a7IzxAWIott_ySFn88UtouJqmDkPQYQE" align="left" width="48"  height="48" style="object-fit: cover;" /> 
+<img src="https://play-lh.googleusercontent.com/6zIE666yhnQimgBSH5fI-dZPlPom4ZdDH2M-lwszWA345oLYilfukSiTwpZL2sE9ves" align="left" width="48"  height="48" style="object-fit: cover;" /> 
 
 ### UNINTER - Computer Science degree
 
